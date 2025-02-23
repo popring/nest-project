@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "./nest-demo"
+    },
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    // Add your workspace settings here
+  }
+}
