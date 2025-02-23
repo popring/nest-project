@@ -1,6 +1,9 @@
 {
   "folders": [
     {
+      "path": "book-management-system-backend"
+    },
+    {
       "path": "./nest-demo"
     },
     {
